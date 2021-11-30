@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=ddiyoung????%20&fontSize=90&fontColor=FF7F50&desc=Being%20curious&descSize=30&descAlignY=70&animation=twinkling)
+🌱 I’m currently learning ...
+    - Deep Learning, Aritificial Intelligence
+    - CV(Computer Vision)
+
+### 📚 Experience
+
+|         Type          |       Date        | Contents                                  |  Organization   |
+| :-------------------: | :---------------: | ----------------------------------------- | :-------------: |
+|      🏫 Education      |     2017.03 ~     | Department of software                    | Ajou Univ. |
+|      🏢 Internship      |     2021.06 ~ 08     | intern-2021-summer                    | Vestella Lab |
