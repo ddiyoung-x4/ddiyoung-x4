@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 🌱 I’m currently learning ...  
-    - Deep Learning, Aritificial Intelligence
+    - Deep Learning, Aritificial Intelligence  
     - CV(Computer Vision)
 
 
