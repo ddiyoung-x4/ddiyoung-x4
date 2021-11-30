@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **ddiyoung-x4/ddiyoung-x4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=ddiyoung????%20&fontSize=90&fontColor=FF7F50&desc=Being%20curious&descSize=30&descAlignY=70&animation=twinkling)
 
+### Hi there 👋
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning ...  
     - Deep Learning, Aritificial Intelligence
     - CV(Computer Vision)
 
