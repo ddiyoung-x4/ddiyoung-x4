@@ -28,5 +28,7 @@ Here are some ideas to get you started:
 
 |         Type          |       Date        | Contents                                  |  Organization   |
 | :-------------------: | :---------------: | ----------------------------------------- | :-------------: |
+|      🏢 Internship      |     2021.10 ~      | Laboratory under Pf.jongbin Ryu         | Ajou Univ. |
+|      🏆 Contest Exhibit      |     2022.01 ~ 2022.02     | 제 2회 조선/해양산업 디지털 혁신을 위한 BigData/AI 대학생 경진대회 | 현대중공업 |
+|      🏢 Internship      |     2021.06 ~ 2021.08     | Intern-2021-summer                    | MTOV |
 |      🏫 Education      |     2017.03 ~     | Department of software                    | Ajou Univ. |
-|      🏢 Internship      |     2021.06 ~ 08     | intern-2021-summer                    | Vestella Lab |
